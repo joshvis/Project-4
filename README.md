@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/joshvis/Project-4/tree/master.svg?style=svg)](https://circleci.com/gh/joshvis/Project-4/tree/master) 
+[![CircleCI](https://circleci.com/gh/joshvis/Project-4.svg?style=svg)](https://circleci.com/gh/joshvis/Project-4) 
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
